@@ -1,2 +1,4 @@
 # tiny-ipam
-Simple IPAM tool
+## by vincebel
+
+Simple IP Address Management tool in Python.
